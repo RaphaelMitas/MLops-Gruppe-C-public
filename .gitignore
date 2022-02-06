@@ -1,0 +1,8 @@
+# Local Netlify folder
+.netlify
+/src/website/public/
+/src/website/.cache/
+/src/website/node_modules/
+
+# Project exclude paths
+/src/Sanity/node_modules/
